@@ -1,0 +1,34 @@
+//Transaction approved user story
+Card Holder Name example
+05/28
+01234567891234563
+30000
+5250.5
+
+//Exceed the maximum amount user story
+Card Holder Name example
+05/28
+01234567891234563
+5000
+5250.5
+
+//Insufficient fund user story
+Card Holder Name example
+05/28
+01234567891234563
+50000
+35000
+
+//Expired card user story
+Card Holder Name example
+05/21
+01234567891234563
+30000
+5250.5
+
+//Invalid card user story
+Card Holder Name example
+05/28
+01234567891234564
+30000
+5250.5

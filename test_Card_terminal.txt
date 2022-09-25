@@ -1,0 +1,39 @@
+//CARD_HOLDER_NAME
+
+Card Holder Name exampleA  //25 characters               
+
+Card Holder Name ex        //19 characters
+
+Card Holder Name example   //24 characters
+
+Card Holder Name exa       //20 characters
+
+
+/////////////////////////////
+
+Card Holder Name example
+09/20
+0123456789123456
+
+Card Holder Name example
+07/22
+0123456789123456
+//valid
+Card Holder Name example
+07/25
+0123456789123456
+12000
+/////////////////////////////
+//Expiry_date
+
+
+//PAN
+
+012345678912345       //15
+
+01234567891234567891  //20
+
+0123456789123456789   //19
+
+0123456789123456      //16 characters
+

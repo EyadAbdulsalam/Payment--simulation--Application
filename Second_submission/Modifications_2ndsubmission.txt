@@ -1,0 +1,7 @@
+getTransaction function is optimised by decreasing time complexity 
+
+there was logical error in copying transaction data 
+
+a new method is used to clear input buffer 
+
+the main() body has been put into a while loop to test diff cases and giving more realistic simulation  
